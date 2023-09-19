@@ -13,6 +13,7 @@ Vous êtes Data Scientist dans une très jeune start-up de l'AgriTech, nommée  
 Le jeu de données est constitué des images de fruits et des labels associés et est accessible sur le lien suivant : https://www.kaggle.com/datasets/moltean/fruits
 
 ## Livrables
-- Un notebook sur le cloud contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension de type PCA).
-- Les images du jeu de données initial ainsi que la sortie de la réduction de dimension (une matrice écrite sur un fichier CSV ou autre) disponible dans un espace de stockage sur le cloud.
-- Un support de présentation
+- Un notebook contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension de type PCA) : P8_Dabidin_Keshika_1_notebook_execution_locale_082023.ipynb
+- Exemple des images du jeu de données initial ainsi que la sortie de la réduction de dimension disponible dans un espace de stockage sur le cloud : dossier imprims_ecrans_8
+- Un notebook contenant les scripts exécutés sur le cloud : P8_Dabidin_Keshika_notebook_aws_final_082023.ipynb
+- Un support de présentation : P8_Dabidin_Keshika_3_presentation.pdf
